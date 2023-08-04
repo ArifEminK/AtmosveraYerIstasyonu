@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atmosferveritaban",
+  "private_key_id": "432a69ff46d25fc59f12277cf3259301fdccec65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDsDb7WNyNoo9Wv\ndrMwnxqA7DaqTwpCW7Wf8SzAIHdvXifINNWZDYspCOpXZj/TyHHatLq174eH916X\nh5QaTPpSoSba5JiXqNIFD+MGOtdUZClemfzA35K8V/LSbrfOYXIbu6SHkVbWNo7k\nuaoMDoAdr4mNOitszpEOyYLNDYEk/DkKMN6YQVnljmLL480FwJ9Brxj470TexRS1\ntSKeqXCRr7HaW54fO+y+j9Ypd5ruTB3Y+7G/Mp94Pc+lKo8rsAqIbRoO8tb/HVjE\nE//nr+Z2nPlyqqwjuIPNXAhfgkECl+/iJPqCPG0zg1rieiswrydAR5o92xOOqCsY\nNIZGoW0bAgMBAAECggEAIWVwcm4qnEtRmBl7EI3x+ftxYHb+RJUlBRPh+Oye+Sqh\nBjozXgwEfDG+tc7JiPT65q5bHBJfYmUlBNsxoObzI22ZSa69x/cif4TX4bHBdTcW\ng0PV9pOq9uqaeBsh9hjjQ/kwNd3iIzxkywdZf4stpQWIuGpaanJvI2BvGQOoGcsv\n13qWe13Hxa4nZ5ivxNoJNjKzieKlGihn3Q73813MGzlbCDGGIDrG54Bnq+InnVYk\nJF+QXUgziVoQJlsnNg08mYe8K6h2QX0iZroXCGtgDxKW4VcQFB/DpDMMCJckOc5b\niAq2U33dYwz0geE2ZCVZV/vH/yYFTdK3K7HV0zERAQKBgQD3T60hL65ZcFrX6AQ5\nRtIaESArh0et4iDYDhq8d5Tbw/11bZc4yPyOv8Q1aVK5iTHvduYK6hplMueqm7Fz\nzrMmo81yomm9nv8z4DvSsvmqNLvUyPS4BIkfChBKK7J1DUGi4ZNiq2pOHjpTj/PX\nOR711NUSzeofeAtDJS0bjCT/sQKBgQD0WNGLxFe4Im226EnWhQLlC5A0cNI/YsHH\nb/k9ObJN32/MneXLjlN9vTaOhR5g21XHKahn9/pi3rGMLSoZV5BdaUC9Mol88EJC\n0rZxnARp6XROTP93rag4ssQdvjdBqUh1d6vsQ9HgU/NW3xFBC1bVYumVfiHdrF56\n4OOXpjIYiwKBgAuqC11cVVnMjcxPGhvldjVah2zmJYBTAP+Psr0e2rt+w+6M66v2\n9sp4yvVF8Wvkx6Emt3TeU75gJ0MJstXmctaotSDp/hi+bgTxV4D5hgL8F7vSepBP\nTnRTUi9dXj5dELJw9zWZJhtnG5MjX/nPrOElV6NaaOdxDv7suvLoqjoRAoGAfUjp\nMHPc0lH81VLnQTH0GQLDzs+mTc/SMfNM5UKnFNyi01SGlceFMayJw6unttvfcH4A\nlkaEwJsUiB5EPrgyEmM8SYYXDtOV9fNajogDj1afRuKd/nwxC9lFS0bTyDwHJgvV\nQBBKFW6WD43Sp/orbMAJqpgAv0t5KiITMBeMCh8CgYASf1PDeUgmtXSSlMbJE9d9\nPvGCBfTeIAOnO2Zem+xkuU9tNgg0eutKVlbyHHyivvwfZ58HnIMsaXe3mWZJ+MzC\nnDoHkTA9BeHKoNOr0I4hT5jkbHn99o10LuHzXumo5qfXcK6/Cjy5J0Fr/Vad7Tc/\nd6F2k+YTnbw+Qns1O8ZaeA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9m197@atmosferveritaban.iam.gserviceaccount.com",
+  "client_id": "110788113561713119528",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9m197%40atmosferveritaban.iam.gserviceaccount.com"
+}
